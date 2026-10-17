@@ -1,0 +1,15 @@
+# Build artifacts
+out/
+*.class
+
+# SQLite Database & local runtime files
+*.db
+messsystem.db
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+.idea/
+*.iml
+.vscode/
+*.log
