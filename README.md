@@ -1,12 +1,12 @@
-# 🍽️ SmartMess — Intelligent QR Mess Card & Dining Management System
+# 🍽️ CampusDine — Intelligent QR Mess Card & Dining Management System
 
 [![Java](https://img.shields.io/badge/Java-8%20%7C%2011%20%7C%2017%20%7C%2021%2B-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com)
 [![SQLite](https://img.shields.io/badge/SQLite-3.45-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org)
-[![Platform](https://img.shields.io/badge/Platform-macOS%20%7C%20Linux%20%7C%20Windows-4A5568?style=for-the-badge)](https://github.com/abhishekpathak6941/E-MessCard)
+[![Platform](https://img.shields.io/badge/Platform-macOS%20%7C%20Linux%20%7C%20Windows-4A5568?style=for-the-badge)](https://github.com/abhishekpathak6941/CampusDine)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
 [![Author](https://img.shields.io/badge/Developed%20By-Abhishek%20Pathak-10B981?style=for-the-badge&logo=github)](https://github.com/abhishekpathak6941)
 
-**SmartMess** is a digital campus mess management and dining attendance verification system designed for universities, colleges, and residential hostels. By pairing an interactive desktop administration kiosk with an embedded lightweight web server, students simply scan a dynamic meal QR code with their mobile phone camera, verify their credentials on a responsive mobile interface, and log their meal in seconds — completely eliminating manual paper mess cards and queues.
+**CampusDine** is a digital campus mess management and dining attendance verification system designed for universities, colleges, and residential hostels. By pairing an interactive desktop administration kiosk with an embedded lightweight web server, students simply scan a dynamic meal QR code with their mobile phone camera, verify their credentials on a responsive mobile interface, and log their meal in seconds — completely eliminating manual paper mess cards and queues.
 
 ---
 
@@ -73,8 +73,8 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/abhishekpathak6941/E-MessCard.git
-   cd E-MessCard
+   git clone https://github.com/abhishekpathak6941/CampusDine.git
+   cd CampusDine
    ```
 
 2. **Make scripts executable:**
@@ -100,8 +100,8 @@
 
 1. **Clone the repository:**
    ```cmd
-   git clone https://github.com/abhishekpathak6941/E-MessCard.git
-   cd E-MessCard
+   git clone https://github.com/abhishekpathak6941/CampusDine.git
+   cd CampusDine
    ```
 
 2. **Compile the source:**
@@ -182,7 +182,7 @@ The system utilizes an embedded relational SQLite database with the following sc
 ## 📂 Project Directory Structure
 
 ```
-E-MessCard/
+CampusDine/
 ├── src/
 │   ├── MessCardSystem.java           # Main application entry point & lifecycle manager
 │   ├── DatabaseManager.java          # SQLite data access object (DAO) & operations
